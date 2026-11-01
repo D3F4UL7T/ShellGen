@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
 ShellGen — reverse / bind shell one-liner generator
-D3F4ULT
+D3F4UL7T
 
 Lab / authorized testing only.
 """
@@ -22,7 +22,7 @@ BANNER = r"""
 / /_/ // / /_/ (__  ) /__/ /_ ___/ / / / /  __/ / /
 \____//_/\____/____/\___/\__/____/_/ /_/\___/_/_/
 
-  reverse / bind shell generator  |  D3F4ULT
+  reverse / bind shell generator  |  D3F4UL7T
 """
 
 LANGS = ("bash", "python", "nc", "php", "perl", "ruby", "powershell")
@@ -176,7 +176,7 @@ def main() -> None:
     print(BANNER)
     p = argparse.ArgumentParser(
         prog="shellgen",
-        description="ShellGen — reverse / bind shell generator (D3F4ULT)",
+        description="ShellGen — reverse / bind shell generator (D3F4UL7T)",
     )
     p.add_argument("--list", "-l", action="store_true", help="list payloads")
     p.add_argument("--type", "-t", choices=["reverse", "bind"])

@@ -2,7 +2,7 @@
 
 Reverse / bind shell one-liner generator.
 
-D3F4ULT
+**Developed by [D3F4UL7T](https://github.com/D3F4UL7T)**
 
 ## Install
 
@@ -30,3 +30,15 @@ python3 shellgen.py -k python_reverse_short -H 10.10.14.5 -p 4444
 ## Notes
 
 Lab and authorized use only. Unauthorized access is illegal. Author assumes no liability for misuse.
+
+---
+
+## Credits
+
+**Developed by [D3F4UL7T](https://github.com/D3F4UL7T)**
+
+```
+root@D3F4ULT:~# whoami
+D3F4UL7T
+```
+
